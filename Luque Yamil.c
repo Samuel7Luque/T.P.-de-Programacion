@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Punto 4
+
 // Codigo del alumno: Yamil Ian Luque
 // Link de Git personal: https://github.com/Samuel7Luque
 // Link del Git grupal (Lider: Gabriel Alan Quiroz): https://github.com/matecebado357/Trabajo-Grupal-de-Laboratorio-de-Programacion.git
